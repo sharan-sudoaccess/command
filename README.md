@@ -13,4 +13,4 @@ Outstanding items:
 - Confirm webhook endpoints (done)
 - Validate OAuth scopes (pending)
 - Final sign-off review
--create 50subtask
+Final housekeeping step: create one issue titled "Northwind sign-off review".
